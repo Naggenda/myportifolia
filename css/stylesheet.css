@@ -32,7 +32,7 @@
     /* padding: 1.7rem;  */
 }
 
-.header-area .main-menu .navbar-nav .active a {
+.header-area .main-menu .navbar-nav a.active {
     background: var(--gradient-color);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
